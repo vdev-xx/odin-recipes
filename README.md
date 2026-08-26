@@ -23,9 +23,9 @@ Each written and structured directly in HTML.
 
 ## Lesson learned
 
-While working on the Recipes project, I learned how to properly use the unordered list element with paragraphs without breaking the numerical sequence of the list.
+While working on the Recipes project, I learned how to properly use the ordered list element with paragraphs without breaking the numerical sequence of the list.
 
-The mistake was creating a separate unordered list element for each step and its paragraph. Instead, all related list items should be placed inside the same opening and closing unordered list tags so that the numbering continues correctly.
+The mistake was creating a separate ordered list element for each step and its paragraph. Instead, all related list items should be placed inside the same opening and closing ordered list tags so that the numbering continues correctly.
 
 Getting better at writing clear, meaningful Git commit messages and committing changes at appropriate points during development.
 
