@@ -21,3 +21,11 @@ Each written and structured directly in HTML.
 - GitHub
 - VS Code
 
+## Lesson learned
+
+While working on the Recipes project, I learned how to properly use the <ol> element with paragraphs without breaking the numerical sequence of the list.
+
+The mistake was creating a separate <ol> element for each step and its paragraph. Instead, all related list items should be placed inside the same opening and closing <ol> tags so that the numbering continues correctly.
+
+Getting better at writing clear, meaningful Git commit messages and committing changes at appropriate points during development.
+
